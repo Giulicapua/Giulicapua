@@ -1,5 +1,5 @@
 <!--banner image-->
-![Banner image D3PA](banner.png)
+![Banner image Giuli](banner2.png)
 
 ## Hi there 👋
 
