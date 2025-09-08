@@ -1,3 +1,6 @@
+<!--banner image-->
+![Banner image D3PA](banner.png)
+
 ## Hi there 👋
 
 <!--
