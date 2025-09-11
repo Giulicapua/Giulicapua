@@ -18,7 +18,7 @@ function actualizarFraseDelDia() {
     const tarjetaHTML = `
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(autor)}&quote=${encodeURIComponent(frase)}&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(autor)}&quote=${encodeURIComponent(frase)}&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
 `;
