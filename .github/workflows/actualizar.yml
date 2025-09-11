@@ -1,0 +1,32 @@
+name: Actualizar frase diaria
+
+on:
+  workflow_dispatch:  
+  schedule:
+    - cron: '0 3 * * *'  
+
+jobs:
+  actualizar-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 16
+          
+      - name: Ejecutar script de actualización
+        run: node actualizar.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit y push
+        run: |
+          git config --local user.name "Giuliana Capua"
+          git config --local user.email "172002850+Giulicapua@users.noreply.github.com"
+          git add README.md ultima_posicion.json
+          git commit -m "Actualizar frase del dia" || echo "No hay cambios que commitear"
+          git push

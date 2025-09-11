@@ -1,0 +1,33 @@
+name: Actualizar Snake
+
+on:
+  workflow_dispatch:   
+  schedule:
+    - cron: '0 3 * * *'  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # clonar el repo
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # generar snake SVG
+      - name: Generar Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#B23EFF&color_dots=#1A0045,#36007D,#5E00B8,#7F3CFF,#9A6CFF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # subir SVG a rama output automaticamente
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
