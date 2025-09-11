@@ -1,3 +1,8 @@
+<!--count badge-->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Giulicapua&label=Profile%20views&color=9C2A68&style=for-the-badge&logo=star" alt="Giulicapua" style="padding-right:20px;" />
+</p>
+
 <!--banner image-->
 ![Banner image Giuli](assets/banner.png)
 
@@ -142,6 +147,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 [![follow me on GitHub](https://img.shields.io/badge/follow%20me%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Giulicapua)
 
 </div>
+
 
 
 
