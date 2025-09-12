@@ -43,31 +43,106 @@ I don't stay still-if there's something new to learn, I'm there. I love sharing 
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <p><b>LANGUAGES</b></p>
-      <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
-    </td>
-    <td align="center">
-      <p><b>DATABASES</b></p>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p><b>QA / TESTING TOOLS</b></p>
-      <img src="https://skillicons.dev/icons?i=selenium,postman" /> <img src="https://skills.syvixor.com/api/icons?i=cypress,appium,apachejmeter,playwright" />
-    </td>
-    <td align="center">
-      <p><b>TOOLS & OTHERS</b></p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm" /> 
-    </td>
-  </tr>
-</table>
+</br>
+
+<p align="center">
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=CC342D#gh-dark-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3#gh-dark-mode-only">
+    </a>
+</p>
+
+</br>
+
+<p align="center">
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Selenium" src="https://img.shields.io/badge/Selenium-050505?style=for-the-badge&logo=selenium#gh-dark-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Postman" src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=1572B6#gh-dark-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Cypress" src="https://img.shields.io/badge/Cypress-050505?style=for-the-badge&logo=cypress#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Appium" src="https://img.shields.io/badge/Appium-050505?style=for-the-badge&logo=appium#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Jest" src="https://img.shields.io/badge/Jest-050505?style=for-the-badge&logo=jest&logoColor=C21325#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Playwright" src="https://img.shields.io/badge/Playwright-050505?style=for-the-badge&logo=playwright#gh-dark-mode-only"/>
+    </a>
+</p>
+
+</br>
+
+<p align="center">
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=CC0000#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="PostgresQL" src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb#gh-dark-mode-only"/>
+    </a>
+</p>
+
+</br>
+
+<p align="center">
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Git" src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="VS Code" src="https://img.shields.io/badge/VS Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-050505?style=for-the-badge&logo=pycharm&logoColor=4B32C3#gh-dark-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-050505?style=for-the-badge&logo=intellijidea&logoColor=white#gh-dark-mode-only"/>
+    </a>
+</p>
+
+</br>
+
 <!--technical skills table-->
 
-<br>
 </br>
 
 <!--connect with me-->
@@ -149,6 +224,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 [![follow me on GitHub](https://img.shields.io/badge/follow%20me%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Giulicapua)
 
 </div>
+
 
 
 
