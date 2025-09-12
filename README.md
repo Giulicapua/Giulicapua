@@ -7,7 +7,9 @@
 ![Banner image Giuli](assets/banner.png)
 
 <!--title-->
-<h1 align="center"><b>Hi there, I'm <a href="https://github.com/D3PA">Giuliana Capua</a> </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" />
+<p align="center">
+  <img src="assets/hi_typing.svg" width="900" />
+</p>
 
 <!--about me-->
 ## <img src="assets/catpink_item.gif" width="35" /> Who Am I?
@@ -224,6 +226,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 [![follow me on GitHub](https://img.shields.io/badge/follow%20me%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Giulicapua)
 
 </div>
+
 
 
 
