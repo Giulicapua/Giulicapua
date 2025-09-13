@@ -178,14 +178,30 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://github.com/Giulicapua">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giulicapua&count_private=true&show_icons=true&theme=dark&bg_color=0,9C2A68,351170&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giulicapua&count_private=true&show_icons=true&theme=dark&bg_color=0,9C2A68,351170&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&border_color=9C2A68" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/Giulicapua">
-          <img align="center" src="https://streak-stats.demolab.com?user=Giulicapua&theme=dark&background=0,9C2A68,351170&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Giulicapua&theme=dark&background=0,9C2A68,351170&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&border=9C2A68" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+     <tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/Giulicapua">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulicapua&layout=compact&theme=dark&card_width=500&langs_count=10&bg_color=0,9C2A68,351170&title_color=ffffff&text_color=ffffff&border_color=9C2A68" alt="Top Langs" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <a href="https://wakatime.com/@Giulicapua">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Giulicapua&layout=compact&theme=dark&bg_color=0,9C2A68,351170&title_color=ffffff&text_color=ffffff&border_color=9C2A68&card_width=500&langs_count=6&custom_title=Code%20Time%20⏳" alt="WakaTime Languages" />
         </a>
       </p>
     </td>
@@ -228,6 +244,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 [![follow me on GitHub](https://img.shields.io/badge/follow%20me%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Giulicapua)
 
 </div>
+
 
 
 
