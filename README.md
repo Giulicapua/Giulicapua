@@ -41,7 +41,7 @@ I don't stay still-if there's something new to learn, I'm there. I love sharing 
 <!--technical skills table-->
 <div align="center">
   
-## <img src="assets/giulitechnical.gif" alt="Technical Skills" width="30" height="30" /> Technical Skills
+## <img src="assets/giulitechnical.gif" alt="Technical Skills" width="30" height="30" /> Technical Skills <img src="assets/giulitechnical.gif" alt="Technical Skills" width="30" height="30" />
 
 </div>
 
@@ -246,6 +246,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 [![follow me on GitHub](https://img.shields.io/badge/follow%20me%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Giulicapua)
 
 </div>
+
 
 
 
