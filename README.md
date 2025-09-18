@@ -228,11 +228,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Jennifer%20Lopez&quote=Believe%20in%20yourself%20and%20anything%20is%20possible&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Est%C3%A9e%20Lauder&quote=I%20never%20dreamed%20of%20success.%20I%20worked%20for%20it&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 
