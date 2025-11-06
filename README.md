@@ -277,11 +277,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Simone%20de%20Beauvoir&quote=Change%20your%20life%20today.%20Don%E2%80%99t%20gamble%20on%20the%20future%2C%20act%20now&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=If%20the%20plan%20doesn%E2%80%99t%20work%2C%20change%20the%20plan%2C%20not%20the%20goal&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 
