@@ -330,11 +330,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=Courage%20is%20knowing%20something%20might%20hurt%20and%20doing%20it%20anyway&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Don%E2%80%99t%20wait%20for%20the%20opportunity.%20Create%20it&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 
