@@ -331,11 +331,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Don%E2%80%99t%20wait%20for%20the%20opportunity.%20Create%20it&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Canfield&quote=Don%E2%80%99t%20worry%20about%20failures%2C%20worry%20about%20the%20chances%20you%20miss%20when%20you%20don%E2%80%99t%20even%20try&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 
