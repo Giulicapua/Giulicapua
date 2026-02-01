@@ -364,11 +364,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Muhammad%20Ali&quote=Don%E2%80%99t%20quit.%20Suffer%20now%20and%20live%20the%20rest%20of%20your%20life%20as%20a%20champion&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%20Jr.&quote=You%20don%E2%80%99t%20have%20to%20see%20the%20whole%20staircase%2C%20just%20take%20the%20first%20step&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 
