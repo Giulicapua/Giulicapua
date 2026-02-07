@@ -370,11 +370,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=The%20greatest%20risk%20is%20thinking%20you%E2%80%99re%20not%20at%20risk&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=Inspiration%20doesn%E2%80%99t%20always%20arrive.%20Sometimes%20you%20have%20to%20provoke%20it&theme=transparent&author_color=9C2A68&accent_color=9C2A68&font=ubuntu&quote_color=FFFFFF&border_color=9C2A68&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 
